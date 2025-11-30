@@ -1,7 +1,8 @@
 .wrapper1,
 .wrapper2,
 .wrapper3,
-.wrapper4 {
+.wrapper4,
+.wrapper5 {
     margin: 0 auto;
 }
 
@@ -377,4 +378,132 @@
 
 .grid-container4 > .item9 {
     background-color: #EBEAEF;
+}
+
+/* Container 5 */
+.grid-container5 {
+    background-color: #3B3B3B;
+    width: 384px;
+    height: 384px;
+    margin: auto;
+    display: grid;
+    grid-template-columns: 54px 40px 105px 72px 81px 22px;
+    grid-template-rows: 45px 56px 79px 51px 55px 64px 22px;
+    gap: 2px;
+}
+
+.grid-container5 > .item1 {
+    background-color: #B6B0B0;
+    grid-row: span 3;
+}
+
+.grid-container5 > .item2 {
+    background-color: #3B3B3B;
+}
+
+.grid-container5 > .item3 {
+    background-color: #4A5A6A;
+    grid-column: span 2;
+}
+
+.grid-container5 > .item4 {
+    background-color: #B6B0B0;
+    grid-column: span 2;
+}
+
+.grid-container5 > .item5 {
+    background-color: #999798;
+    grid-column: span 2;
+}
+
+.grid-container5 > .item6 {
+    background-color: #B6694D;
+}
+
+.grid-container5 > .item7 {
+    background-color: #3B3B3B;
+}
+
+.grid-container5 > .item8 {
+    background-color: #4A5A6A;
+}
+
+.grid-container5 > .item9 {
+    background-color: #3B3B3B;
+}
+
+.grid-container5 > .item10 {
+    background-color: #D7B74A;
+}
+
+.grid-container5 > .item11 {
+    background-color: #4A5A6A;
+    grid-row: span 2;
+}
+
+.grid-container5 > .item12 {
+    background-color: #B6694D;
+    grid-row: span 2;
+}
+
+.grid-container5 > .item13 {
+    background-color: #999798;
+    grid-row: span 3;
+}
+
+.grid-container5 > .item14 {
+    background-color: #999798;
+    grid-row: span 3;
+}
+
+.grid-container5 > .item15 {
+    background-color: #999798;
+    grid-row: span 3;
+}
+
+.grid-container5 > .item16 {
+    background-color: #D7B74A;
+}
+
+.grid-container5 > .item17 {
+    background-color: #B6694D;
+}
+
+.grid-container5 > .item18 {
+    background-color: #B6B0B0;
+}
+
+.grid-container5 > .item19 {
+    background-color: #D7B74A;
+}
+
+.grid-container5 > .item20 {
+    background-color: #3B3B3B;
+}
+
+.grid-container5 > .item21 {
+    background-color: #999798;
+}
+
+.grid-container5 > .item22 {
+    background-color: #4A5A6A;
+}
+
+.grid-container5 > .item23 {
+    background-color: #B6694D;
+    grid-row: span 2;
+}
+
+.grid-container5 > .item24 {
+    background-color: #D7B74A;
+    grid-column: span 2;
+}
+
+.grid-container5 > .item25 {
+    background-color: #999798;
+    grid-column: span 2;
+}
+
+.grid-container5 > .item26 {
+    background-color: #3B3B3B;
 }
