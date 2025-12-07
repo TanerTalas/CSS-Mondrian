@@ -54,7 +54,6 @@
 
 .grid-container2-inner {
     position: absolute;
-    z-index: -1;
     background-color: black;
     width: 384px;
     height: 384px;
@@ -107,6 +106,7 @@
 }
 
 .grid-container2-outer {
+    z-index: 1;
     position: relative;
     top: 10px;
     left: 10px;
@@ -573,7 +573,7 @@
     .grid-container4 {
         width: 340px;
         height: 340px;
-        grid-template-columns: 32px 114px 103px 77px;
+        grid-template-columns: 32px 116px 103px 77px;
         grid-template-rows: 140px 78px 97px 13px;
         gap: 4px;
     }
