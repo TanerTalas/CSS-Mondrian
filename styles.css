@@ -212,6 +212,7 @@ h2 {
     position: relative;
     cursor: pointer;
     transition: .3s;
+    margin-left: 24px;
 
 }
 
