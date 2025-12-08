@@ -1,2 +1,54 @@
-# mondrian-css
-CSS-based Mondrian-style artwork gallery showcasing colorful geometric compositions using grids.
+# 🚀 Taner Talas | CSS Mondrian Project
+
+## 🇬🇧 English
+
+Front-end project featuring CSS recreations of Mondrian paintings, focusing on layout, responsive design, and artistic interpretation.
+
+---
+
+🔨 Built with:
+- HTML5
+- CSS3
+- JavaScript
+  
+✨ Features 
+- Recreated Mondrian artworks using CSS Grid
+- Modern and minimal visual design
+- Animated presentation resembling an art gallery exhibition
+- Responsive layout 
+
+🔗 **Live Demo**: [tanertalas.github.io/mondrian-css](https://tanertalas.github.io/mondrian-css)
+
+---
+
+## 🇹🇷 Türkçe
+
+Mondrian resimlerinin CSS ile yeniden yaratımlarını içeren, düzen, duyarlı tasarım ve sanatsal yorumlamaya odaklanan front-end projesi.
+
+---
+
+🔨 Kullanılan Teknolojiler:
+- HTML5
+- CSS3
+- JavaScript
+  
+✨ Özellikler: 
+- CSS Grid kullanılarak yeniden yaratılan Mondrian sanat eserleri
+- Modern ve minimal görsel tasarım
+- Bir sanat galerisi sergisini andıran animasyonlu sunum
+- Duyarlı tasarım
+
+🔗 **Canlı Site**: [tanertalas.github.io/mondrian-css](https://tanertalas.github.io/mondrian-css)
+
+---
+
+## 📸 Preview / Önizleme
+
+Screenshots will be added later on.
+
+---
+
+## License / Lisans
+
+This project is licensed under the MIT License.  
+Bu proje MIT lisansı ile lisanslanmıştır.
