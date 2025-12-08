@@ -323,12 +323,18 @@ main {
     display: flex;
     flex-direction: column;
     margin-top: 32px;
-    gap: 46px;
+    gap: 24px;
 }
 
-.arts h3 {
-    font-weight: 600;
+.arts h2 {
+    font-size: 1.5rem;
+    font-weight: 400;
     margin-bottom: 8px;
+}
+
+.art-item {
+    border-top: 2px solid rgba(99, 99, 99, 0.263);
+    padding-top: 24px;
 }
 
 /* arts - end */
