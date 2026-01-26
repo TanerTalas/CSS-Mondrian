@@ -17,7 +17,7 @@ Front-end project featuring CSS recreations of Mondrian paintings, focusing on l
 - Animated presentation resembling an art gallery exhibition
 - Responsive layout 
 
-🔗 **Live Demo**: [tanertalas.github.io/mondrian-css](https://tanertalas.github.io/mondrian-css)
+🔗 **Live Demo**: [tanertalas.github.io/CSS-Mondrian](https://tanertalas.github.io/CSS-Mondrian)
 
 ---
 
@@ -38,13 +38,7 @@ Mondrian resimlerinin CSS ile yeniden yaratımlarını içeren, düzen, duyarlı
 - Bir sanat galerisi sergisini andıran animasyonlu sunum
 - Duyarlı tasarım
 
-🔗 **Canlı Site**: [tanertalas.github.io/mondrian-css](https://tanertalas.github.io/mondrian-css)
-
----
-
-## 📸 Preview / Önizleme
-
-Screenshots will be added later on.
+🔗 **Canlı Site**: [tanertalas.github.io/CSS-Mondrian](https://tanertalas.github.io/CSS-Mondrian)
 
 ---
 
